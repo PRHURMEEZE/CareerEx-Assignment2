@@ -1,0 +1,49 @@
+nav {
+  background-color: blue;
+  text-align: center;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 18px;
+}
+
+.section {
+  border: 2px;
+  margin: 20px;
+  padding: 20px;
+}
+.section1 {
+  background-color: rgb(66, 66, 68);
+}
+.section2 {
+  background-color: hotpink;
+}
+.section3 {
+  background-color: coral;
+}
+
+h2 {
+  color: crimson;
+  font-size: 24px;
+}
+p {
+  color: white;
+  font-size: 18px;
+}
+button {
+  background-color: rgb(5, 45, 88);
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+img {
+  width: 100%;
+  max-width: 400px;
+  margin: 10px auto;
+  border-radius: 8px;
+}
