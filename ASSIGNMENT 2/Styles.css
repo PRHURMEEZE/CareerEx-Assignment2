@@ -1,11 +1,18 @@
-nav {
+* {
+  padding: o;
+  margin: 0;
+  box-sizing: border-box;
+}
+  nav {
   background-color: blue;
   text-align: center;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
 }
 nav a {
   color: white;
   text-decoration: none;
-  margin: 0 20px;
   font-size: 18px;
 }
 
